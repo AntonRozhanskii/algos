@@ -10,6 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>algos-001-two-sum</module>
+        <module>algos-009-palindrome-number</module>
     </modules>
 
     <properties>
