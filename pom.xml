@@ -11,6 +11,7 @@
     <modules>
         <module>algos-001-two-sum</module>
         <module>algos-009-palindrome-number</module>
+        <module>algos-013-roman-to-integer</module>
     </modules>
 
     <properties>
