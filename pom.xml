@@ -14,6 +14,7 @@
         <module>algos-013-roman-to-integer</module>
         <module>algos-014-longest-common-prefix</module>
         <module>algos-020-valid-parentheses</module>
+        <module>algos-021-merge-two-sorted-lists</module>
     </modules>
 
     <properties>
