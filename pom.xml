@@ -17,6 +17,7 @@
         <module>algos-021-merge-two-sorted-lists</module>
         <module>algos-026-remove-duplicates-from-sorted-array</module>
         <module>algos-027-remove-element</module>
+        <module>algos-035-search-insert-position</module>
     </modules>
 
     <properties>
