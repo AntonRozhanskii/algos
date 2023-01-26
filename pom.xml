@@ -18,6 +18,7 @@
         <module>algos-026-remove-duplicates-from-sorted-array</module>
         <module>algos-027-remove-element</module>
         <module>algos-035-search-insert-position</module>
+        <module>algos-058-length-of-last-word</module>
     </modules>
 
     <properties>
