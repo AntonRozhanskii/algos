@@ -9,16 +9,16 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>algos-001-two-sum</module>
-        <module>algos-009-palindrome-number</module>
-        <module>algos-013-roman-to-integer</module>
-        <module>algos-014-longest-common-prefix</module>
-        <module>algos-020-valid-parentheses</module>
-        <module>algos-021-merge-two-sorted-lists</module>
-        <module>algos-026-remove-duplicates-from-sorted-array</module>
-        <module>algos-027-remove-element</module>
-        <module>algos-035-search-insert-position</module>
-        <module>algos-058-length-of-last-word</module>
+        <module>algos-0001-two-sum</module>
+        <module>algos-0009-palindrome-number</module>
+        <module>algos-0013-roman-to-integer</module>
+        <module>algos-0014-longest-common-prefix</module>
+        <module>algos-0020-valid-parentheses</module>
+        <module>algos-0021-merge-two-sorted-lists</module>
+        <module>algos-0026-remove-duplicates-from-sorted-array</module>
+        <module>algos-0027-remove-element</module>
+        <module>algos-0035-search-insert-position</module>
+        <module>algos-0058-length-of-last-word</module>
     </modules>
 
     <properties>
